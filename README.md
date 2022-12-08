@@ -4,7 +4,7 @@ Here in this template, you will learn How to run and stop the ECS Task using the
 
 ---
 
-#### Prerequiste
+#### Prerequisite
 
 * Install Python
 * AWS Configure
