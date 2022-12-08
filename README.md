@@ -25,12 +25,15 @@ Here in this template, you will learn How to run and stop the ECS Task using the
 <b>ECS Task Run
 
 1
+  
 ![ecs-task-run-1.png](assests/ecs-task-run-1.png)
 
 2
+  
 ![ecs-task-run-2.png](assests/ecs-task-run-2.png)
 
 3
+  
 ![ecs-task-run-3.png](assests/ecs-task-run-3.png)
 
 ECS Task Stop</b>
