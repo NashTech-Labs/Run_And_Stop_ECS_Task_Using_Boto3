@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Here in this template, you will learn about the  run and stop the ECS Task using the Boto3. 
+Here in this template, you will learn How to run and stop the ECS Task using the Boto3. 
 
 ---
 
